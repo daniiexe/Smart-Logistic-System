@@ -21,33 +21,35 @@ The goal of this project is to show how design patterns can be used in a realist
 
 ## 🧱 OOP Concepts Used
 
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Interfaces
-* Composition
-* 
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Composition
 ---
 
 ## 🏗️ Design Patterns used
-* ### Creational
-* Singleton
-* Builder
-* Abstract Factory
-* ### Structural
-* Adapter
-* Proxy
-* Facade
-* ### Behavioral
-* Observer
-* Strategy
-* State
+
+### Creational
+- Singleton
+- Builder
+- Abstract Factory
+
+### Structural
+- Adapter
+- Proxy
+- Facade
+
+### Behavioral
+- Observer
+- Strategy
+- State
 
 ---
 
 ## 📊 UML diagram
-<img src="/umldiagram/uml.png">
+![UML Diagram](umldiagram/uml.png)
 
 ---
 
@@ -103,7 +105,7 @@ src/main/java/org/steiner/com/
 
 ---
 
-## 🎮 Consol Output
+## 🎮 Console Output
 ```TERMINAL
     ---Robot RoboTech 1---
     Device Robot RoboTech 1 is online
@@ -233,7 +235,26 @@ src/main/java/org/steiner/com/
     
     Process finished with exit code 0
 ```
+---
 
-```
-Note: This is a practice project and is not meant to represent a complete production-ready program
-```
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open in IntelliJ / Eclipse
+3. Run `Main.java`
+
+---
+
+## 🛠️ Technologies
+
+- Java (JDK 24)
+- Maven
+- Object-Oriented Programming (OOP)
+- Design Patterns (GoF)
+- UML Modeling
+
+---
+
+> ⚠️ Note: This project is for practice purposes only and is not a production-ready system.
+
+---
